@@ -1,5 +1,7 @@
 # IBM Business Automation Manager Open Editions (BAMOE) - Process Migration Tool
-This repository contains a tool used to migrate legacy in-flight process data to IBM Process Automation Manager Open Edition v9.x.  
+This repository is the home for the upcoming BAMOE Process Migration Tool.  This tool will be used to migrate legacy in-flight process data to IBM Process Automation Manager Open Edition v9.x.  
+
+![Under Construction](./doc/images/under-construction.png)
 
 ## Additional Information (*Appendicies*)
 This repository is focused on business automation using [**IBM Business Automation Manager Open Editions**](https://www.ibm.com/docs/en/ibamoe/9.2.x) products, specifically the IBM build of [**Kogito**](https://kogito.kie.org/) known as **IBM Decision Manager Open Edition (DMOE)** and **IBM Process Automation Manager Open Edition (PAMOE)**, leveraging [**Quarkus**](https://quarkus.io/) or [**Spring Boot** _(currently for Decisions only)_](https://spring.io/) as the assoicated container runtime.  The following online documentation is available in order to learn various aspects of these products and frameworks:
